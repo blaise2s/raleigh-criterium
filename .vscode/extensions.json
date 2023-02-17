@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "*.{css,scss}": "stylelint --cache --cache-location=.formatting-caches/.stylelintcache --fix",
+  "*.{ts,js,tsx,jsx}": "eslint --cache --cache-location=.formatting-caches/.eslintcache --fix",
+  "**/*": "prettier --cache --cache-location=.formatting-caches/.prettiercache --write --ignore-unknown"
+}
